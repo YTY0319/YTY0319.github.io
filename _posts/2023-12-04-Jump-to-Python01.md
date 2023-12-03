@@ -1,7 +1,10 @@
 ---
 layout: single
 title:  "Jump to Python 01"
+typora-root-url: ../
 ---
+
+이지스 퍼블리싱의 Do it! 점프 투 파이썬 정리
 
 # 01. 파이썬이란 무엇인가?
 
@@ -44,9 +47,7 @@ title:  "Jump to Python 01"
 
 ## 01-5 파이썬 둘러보기
 
-<img src="C:\Users\yoont\OneDrive\문서\GitHub\yty0319.github.io\images\2024-12-04-Jump-to-Python-01\img1.png" alt="img1" style="zoom: 80%;" />
-
-<파이썬 대화형 인터프리터> 사용자가 입력한 소스코드를 실행하는 환경
+![img1](/images/2023-12-04-Jump-to-Python01/img1.png)[파이썬 대화형 인터프리터] 사용자가 입력한 소스코드를 실행하는 환경
 
 종료 Ctrl + z, quit(), exit() or sys모듈을 사용할 수 있다.
 
