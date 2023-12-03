@@ -16,8 +16,8 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "study blog yty"
-title_separator          : "--"
+title                    : "Study Blog YTY"
+title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "yoontaeyeon"
 description              : "An amazing website."
