@@ -44,7 +44,7 @@ title:  "점프 투 파이썬 01장"
 
 ## 01-5 파이썬 둘러보기
 
-![img1](img1.png)
+<img src="C:\Users\yoont\OneDrive\문서\GitHub\yty0319.github.io\images\2024-12-04-Jump-to-Python-01\img1.png" alt="img1" style="zoom: 80%;" />
 
 <파이썬 대화형 인터프리터> 사용자가 입력한 소스코드를 실행하는 환경
 
