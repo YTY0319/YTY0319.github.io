@@ -1,6 +1,6 @@
 ---
 layout: single
-title:  "점프 투 파이썬 01장"
+title:  "Jump to Python 01"
 ---
 
 # 01. 파이썬이란 무엇인가?
