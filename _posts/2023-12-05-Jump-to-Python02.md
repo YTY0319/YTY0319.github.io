@@ -1,3 +1,8 @@
+---
+layout: single
+title:  "Jump to Python 02-1"
+typora-root-url: ../
+---
 # 02 파이썬 프로그래밍의 기초, 자료형1
 
 ## 02-1 숫자형
