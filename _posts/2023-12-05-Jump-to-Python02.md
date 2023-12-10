@@ -156,8 +156,8 @@ ex) “Life is too short, You need Python”
 ### 이스케이프 코드
 
 | 코드 | 설명 |
-| \n | 문자열 안에 서 줄바꿈 |
 | --- | --- |
+| \n | 문자열 안에 서 줄바꿈 |
 | \t | 문자열 사이에 탭 간격 |
 | \\ | \를 그대로 표현 |
 | \’ | ' 를 그대로 표현 |
@@ -338,8 +338,8 @@ ex) “Life is too short, You need Python”
 ### 문자열 포맷 코드
 
 | 코드 | 설명 |
-| %s | 문자열 string |
 | --- | --- |
+| %s | 문자열 string |
 | %c | 문자 1개 character |
 | %d | 정수 integer |
 | %f | 부동소수 floating-point |
